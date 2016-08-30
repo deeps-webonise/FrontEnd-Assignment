@@ -1,0 +1,159 @@
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q,  samp,
+small, strike, strong, sub, sup, tt, var,
+b,  i, dl, dt, dd, ol, ul, li,  
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output,  section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+
+.container{
+ width:1170px;
+ margin:0px auto 0px auto;
+
+}
+
+
+.clear{
+  clear:both;
+}
+
+
+
+
+
+.head{
+  padding:7.5px 0px;
+  background-color:grey;
+
+}
+
+.logo {
+
+  float: left;
+  background-color:#ff8000; 
+  width: 140px;
+  height: 35px;
+  margin-right:40px;
+  
+}
+
+.nav{
+
+   text-align: center;
+}
+
+
+.nav li {
+
+  float:left;
+  margin-right: 17.5px;
+  list-style: none;
+  
+}
+
+.nav li a {
+  text-decoration:none;
+  line-height: 35px;
+  color: #aaaaaa;
+  font-size: 18px;
+
+}
+
+.canvas {
+  height: 485px;
+  background-color: #71c4ea;
+}
+
+.content {
+  margin-top: 63px;
+  margin-bottom: 109px;
+  text-align:center;
+}
+
+h1{
+  text-align: center;
+  font-size: 36px;
+  line-height: 38px;
+  color: #444444;
+  margin-bottom: 69px;
+}
+
+
+.description {
+  list-style: none;
+  width: 860px;
+  margin:0 auto;
+}
+
+.description li {
+  width:150px;
+  text-align: center;  
+  margin-left: 75px;
+  float: left;
+}
+
+.description li:first-child {
+  
+  margin-left: 0px;
+}
+
+.circle {
+  margin:0 auto 0 auto;
+  background-color: #efefef;
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+ 
+}
+
+.about {  
+
+  color: #888888;
+  font-size: 18px;
+  line-height: 20px;
+}
+.clearr{
+margin:auto;
+width:0px;
+float:none;
+}
+
+.footer{
+background-color:#ececec;
+text-align: center;
+margin-top: 100px;
+padding-top: 12.5px;
+padding-bottom  : 12.5px;
+}
+.footer ul{
+text-align: center;
+}
+.footer ul li{
+display: inline-block;
+margin-left: 8px;
+margin-right: 8px;
+}
+.footer ul li a{
+text-decoration: none;
+font-size: 16px;
+color: #ff8000;
+}
+.footer ul li a:hover{
+color: #444444;
+}
+
+
+
