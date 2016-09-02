@@ -4,13 +4,9 @@ body {
     color: #222222;
 }
 
-
-
-
-
 .logo {
    
-    display: inline-block;
+display: inline-block;
 padding-top:10px;
   
 }
@@ -21,6 +17,12 @@ color: white;
     padding-top: 0px;
     padding-bottom: 0px;
     line-height: 30px;
+}
+
+.navbar-nav{
+
+
+
 }
 
 
@@ -35,6 +37,11 @@ color: white;
 
 .nav-header.navbar {
     min-height:0;
+}
+h3{
+    size:14px;
+    color:#222222;
+
 }
 
 
